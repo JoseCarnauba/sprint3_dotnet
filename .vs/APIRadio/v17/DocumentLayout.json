@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose Carnauba\\source\\repos\\APIRadio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC0F9E-4073-4087-858B-9430E56238D0}|APIRadio\\APIRadio.csproj|c:\\users\\jose carnauba\\source\\repos\\apiradio\\apiradio\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E0CC0F9E-4073-4087-858B-9430E56238D0}|APIRadio\\APIRadio.csproj|solutionrelative:apiradio\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC0F9E-4073-4087-858B-9430E56238D0}|APIRadio\\APIRadio.csproj|c:\\users\\jose carnauba\\source\\repos\\apiradio\\apiradio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC0F9E-4073-4087-858B-9430E56238D0}|APIRadio\\APIRadio.csproj|solutionrelative:apiradio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC0F9E-4073-4087-858B-9430E56238D0}|APIRadio\\APIRadio.csproj|c:\\users\\jose carnauba\\source\\repos\\apiradio\\apiradio\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC0F9E-4073-4087-858B-9430E56238D0}|APIRadio\\APIRadio.csproj|solutionrelative:apiradio\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC0F9E-4073-4087-858B-9430E56238D0}|APIRadio\\APIRadio.csproj|c:\\users\\jose carnauba\\source\\repos\\apiradio\\apiradio\\service\\usuarioservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC0F9E-4073-4087-858B-9430E56238D0}|APIRadio\\APIRadio.csproj|solutionrelative:apiradio\\service\\usuarioservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Jose Carnauba\\source\\repos\\APIRadio\\APIRadio\\README.md",
+              "RelativeDocumentMoniker": "APIRadio\\README.md",
+              "ToolTip": "C:\\Users\\Jose Carnauba\\source\\repos\\APIRadio\\APIRadio\\README.md",
+              "RelativeToolTip": "APIRadio\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-17T01:39:29.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Carnauba\\source\\repos\\APIRadio\\APIRadio\\Service\\UsuarioServiceBase.cs",
+              "RelativeDocumentMoniker": "APIRadio\\Service\\UsuarioServiceBase.cs",
+              "ToolTip": "C:\\Users\\Jose Carnauba\\source\\repos\\APIRadio\\APIRadio\\Service\\UsuarioServiceBase.cs",
+              "RelativeToolTip": "APIRadio\\Service\\UsuarioServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:26:54.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Carnauba\\source\\repos\\APIRadio\\APIRadio\\Program.cs",
+              "RelativeDocumentMoniker": "APIRadio\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose Carnauba\\source\\repos\\APIRadio\\APIRadio\\Program.cs",
+              "RelativeToolTip": "APIRadio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:26:34.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Carnauba\\source\\repos\\APIRadio\\APIRadio\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "APIRadio\\Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Jose Carnauba\\source\\repos\\APIRadio\\APIRadio\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "APIRadio\\Service\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:24:17.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
